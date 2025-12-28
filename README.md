@@ -19,4 +19,4 @@ Actualmente estudio en la **Universidad Politécnica de Victoria**, en la Ingeni
 - **LinkedIn:** [Emanuel Aguirre](https://www.linkedin.com/in/emanuel-aguirre-3b8657366/)
 
 ---
-*¡Siempre abierto a nuevas oportunidades y colaboraciones interesantes!*
+*¡Construyendo las bases para el futuro de la tecnología, como dijo un señor semicalvo alguna vez "un commit a la vez!"*
